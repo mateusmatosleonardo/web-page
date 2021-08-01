@@ -27,3 +27,7 @@ header nav{
     /* Para jogar os elementos do nav para a direita*/
     float: right;
 }
+
+header nav li{
+    display: inline-block;
+}
