@@ -36,6 +36,8 @@ header nav li{
     display: inline-block;
 }
 
-header > .container > nav > ul > li > a{
+header li a{
+    /* Para retirar a linha debaixo da li */
+    text-decoration: none;
     color: white;
 } 
