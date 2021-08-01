@@ -35,3 +35,7 @@ header nav ul{
 header nav li{
     display: inline-block;
 }
+
+header > .container > nav > ul > li > a{
+    color: white;
+} 
