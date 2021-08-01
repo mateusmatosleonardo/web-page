@@ -29,6 +29,13 @@ header nav{
     float: right;
 }
 
+header .logo{
+    float: left;
+    width: 160px;
+    height: 40px;
+    background-color: #ccc;
+}
+
 header nav ul{
     list-style-type: none;
 }
