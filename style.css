@@ -24,5 +24,6 @@ header{
 }
 
 header nav{
+    /* Para jogar os elementos do nav para a direita*/
     float: right;
 }
