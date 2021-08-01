@@ -28,6 +28,10 @@ header nav{
     float: right;
 }
 
+header nav ul{
+    list-style-type: none;
+}
+
 header nav li{
     display: inline-block;
 }
