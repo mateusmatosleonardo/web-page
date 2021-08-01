@@ -10,7 +10,7 @@ html, body{
 }
 
 .container{
-    margin: 0 auto;
+    margin: 0 auto; 
     max-width: 1200px;
 }
 
@@ -21,4 +21,8 @@ header{
     background-image: url(./img/capa.png);
     background-position: center;
     background-size: cover;
+}
+
+header nav{
+    float: right;
 }
