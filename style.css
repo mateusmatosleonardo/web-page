@@ -56,8 +56,9 @@ header li a{
 } 
 
 .chamada1{
+    max-width: 500px;
     float: right;
-    margin: 195px 350px;
+    margin: 232px 150px;
 }
 
 .chamada1 h2{
