@@ -96,3 +96,8 @@ section.sessao1{
     list-style-position: inside;
     font-size: 14px;
 }
+
+.texto-sessao1 ul li{
+    float: left;
+    width: 100%;
+}
