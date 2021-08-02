@@ -77,3 +77,20 @@ section.sessao1{
     background-color: #472562;
     padding: 20px 2%;
 }
+
+.texto-sessao1{
+    float: left;
+    color: white;
+}
+
+.texto-sessao1 h2{
+    font-weight: lighter;
+}
+
+.texto-sessao1 p{
+    font-size: 14px;
+}
+
+.texto-sessao1 ul{
+    list-style-position: inside;
+}
