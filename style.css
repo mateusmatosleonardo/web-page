@@ -71,3 +71,9 @@ header li a{
     color: white;
     font-weight: normal;
 }
+
+section.sessao1{
+    width: 100%;
+    background-color: #472562;
+    padding: 20px 2%;
+}
