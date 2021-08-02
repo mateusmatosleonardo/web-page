@@ -89,8 +89,10 @@ section.sessao1{
 
 .texto-sessao1 p{
     font-size: 14px;
+    margin-top: 15px;
 }
 
 .texto-sessao1 ul{
     list-style-position: inside;
+    font-size: 14px;
 }
