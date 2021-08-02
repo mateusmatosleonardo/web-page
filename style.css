@@ -78,9 +78,14 @@ section.sessao1{
     padding: 20px 2%;
 }
 
+section.sessao1 .container{
+    max-width: 1000px;
+}
+
 .texto-sessao1{
     float: left;
     color: white;
+    width: 50%;
 }
 
 .texto-sessao1 h2{
@@ -100,4 +105,13 @@ section.sessao1{
 .texto-sessao1 ul li{
     float: left;
     width: 100%;
+}
+
+.device-sessao1{
+    float: left;
+    width: 50%;
+    height: 600px;
+    background-image: url(./img/device.png);
+    background-repeat: no-repeat;
+    background-size: 100% auto;
 }
