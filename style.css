@@ -76,7 +76,7 @@ section.sessao1{
     width: 100%;
     background-color: #472562;
     padding: 0 2%;
-    height: 471.1px;
+    height: 380px;
 }
 
 section.sessao1 .container{
@@ -88,6 +88,8 @@ section.sessao1 .container{
     color: white;
     width: 50%;
     padding-left: 80px;
+    position: relative;
+    left: 60px;
 }
 
 .texto-sessao1 h2{
@@ -116,7 +118,7 @@ section.sessao1 .container{
     height: 44px;
     color: white;
     cursor: pointer;
-    margin-top: 10px;
+    margin-top: 20px;
     text-align: center;
     line-height: 44px;
     border-radius: 25px;
@@ -125,10 +127,10 @@ section.sessao1 .container{
 
 .device-sessao1{
     position: relative;
-    top: -150px;
+    top: -122px;
     float: left;
     width: 50%;
-    height: 450px;
+    height: 430px;
     background-image: url(./img/device.png);
     background-repeat: no-repeat;
     background-size: 100% 100%;
