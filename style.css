@@ -76,7 +76,7 @@ section.sessao1{
     width: 100%;
     background-color: #472562;
     padding: 0 2%;
-    height: 400px;
+    height: 471.1px;
 }
 
 section.sessao1 .container{
@@ -106,6 +106,7 @@ section.sessao1 .container{
 .texto-sessao1 ul li{
     float: left;
     width: 100%;
+    margin-top: 8px;
 }
 
 .btntxt{
@@ -121,10 +122,12 @@ section.sessao1 .container{
 }
 
 .device-sessao1{
+    position: relative;
+    top: -150px;
     float: left;
     width: 50%;
-    height: 400px;
+    height: 450px;
     background-image: url(./img/device.png);
     background-repeat: no-repeat;
-    background-size: 100% auto;
+    background-size: 100% 100%;
 }
