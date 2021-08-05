@@ -135,3 +135,18 @@ section.sessao1 .container{
     background-repeat: no-repeat;
     background-size: 100% 100%;
 }
+
+@media screen and (max-width: 768px){
+    section.sessao1{
+        padding: 40px 2%;
+        height: auto;
+    }
+
+    .texto-sessao1{
+        float: none;
+    }
+
+    .device-sessao1{
+        display: none;
+    }
+}
