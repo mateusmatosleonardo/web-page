@@ -140,10 +140,27 @@ section.sessao1 .container{
     section.sessao1{
         padding: 40px 2%;
         height: auto;
+        text-align: center;
     }
 
     .texto-sessao1{
         float: none;
+        margin-top: 0;
+        position: static;
+        display: inline-block;
+    }
+
+    .texto-sessao1 ul{
+        display: inline-block;
+    }
+
+    .texto-sessao1 ul li{
+        float: none;
+        text-align: left;
+    }
+
+    .btntxt{
+        display: inline-block;
     }
 
     .device-sessao1{
