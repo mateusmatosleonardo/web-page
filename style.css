@@ -148,6 +148,7 @@ section.sessao1 .container{
         margin-top: 0;
         position: static;
         display: inline-block;
+        padding-left: 0;
     }
 
     .texto-sessao1 ul{
